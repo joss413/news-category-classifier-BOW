@@ -54,7 +54,7 @@ This project explores multiple techniques for news classification:
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/news-category-classifier.git
+git clone https://github.com/YOUR_USERNAME/news-category-classifier-BOW.git
 cd news-category-classifier
 
 # Install dependencies
