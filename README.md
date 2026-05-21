@@ -1,4 +1,4 @@
-# 📰 News Category Classifier
+# 📰 News Category Classifiers
 
 A multi-class text classification project that categorizes news articles into **Business, Sports, Crime, and Science** categories using Naive Bayes with SMOTE oversampling.
 
